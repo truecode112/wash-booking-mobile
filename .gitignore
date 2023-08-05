@@ -1,0 +1,8 @@
+*.hprof
+android/.gradle/
+node_modules/
+ios/Pods/
+android/.idea/
+android/app/build/
+android/app/release/
+.env
